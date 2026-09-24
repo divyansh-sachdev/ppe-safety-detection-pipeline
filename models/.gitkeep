@@ -1,0 +1,2 @@
+Place the fine-tuned YOLOv11 weights here (e.g. ppe-yolov11.pt), produced by scripts/train.py.
+Weights are excluded from version control — see .gitignore.
